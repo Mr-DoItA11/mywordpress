@@ -8,12 +8,12 @@
 	>
 
 <channel>
-	<title>Sản phẩm &#8211; My WordPress</title>
+	<title>Products &#8211; My WordPress</title>
 	<atom:link href="https://mr-doita11.github.io/mywordpress/shop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://mr-doita11.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 06 Oct 2022 04:33:50 +0000</lastBuildDate>
-	<language>vi</language>
+	<lastBuildDate>Wed, 12 Oct 2022 09:11:08 +0000</lastBuildDate>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -28,10 +28,12 @@
 		<pubDate>Thu, 06 Oct 2022 04:33:50 +0000</pubDate>
 				<guid isPermaLink="false">https://mr-doita11.github.io/mywordpress/?post_type=product&#038;p=509</guid>
 
-					<description><![CDATA[Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis. Praesent elementum facilisis leo vel fringilla. Vel quam elementum pulvinar etiam]]></description>
-										<content:encoded><![CDATA[<h4>Savor all the fun</h4>
-<p>Urna cursus eget nunc scelerisque. Etiam erat velit scelerisque in dictum. Sapien et ligula ullamcorper malesuada proin libero. Eget nunc scelerisque viverra mauris. Non tellus orci ac auctor. Non odio euismod lacinia at quis risus. In ante metus</p>
-<p>Arcu cursus vitae congue mauris rhoncus aenean. Massa eget egestas purus viverra accumsan. Viverra orci sagittis eu volutpat odio<img class="alignnone size-full wp-image-433" src="https://mr-doita11.github.io/mywordpress/wp-content/uploads/2022/10/product-detail-1-2.jpg" alt="" width="650" height="460" /></p>
+					<description><![CDATA[<h2><strong>Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis. Praesent elementum facilisis leo vel fringilla. Vel quam elementum pulvinar etiam</strong></h2>
+<div class="ddict_btn" style="top: -22px; left: 1070.99px;"><img src="chrome-extension://bpggmmljdiliancllaapiggllnkbjocb/logo/48.png" /></div>]]></description>
+										<content:encoded><![CDATA[<h1>Savor all the fun</h1>
+<h2>Urna cursus eget nunc scelerisque. Etiam erat velit scelerisque in dictum. Sapien et ligula ullamcorper malesuada proin libero. Eget nunc scelerisque viverra mauris. Non tellus orci ac auctor. Non odio euismod lacinia at quis risus. In ante metus</h2>
+<h2>Arcu cursus vitae congue mauris rhoncus aenean. Massa eget egestas purus viverra accumsan. Viverra orci sagittis eu volutpat odio<img class="alignnone size-full wp-image-433" src="https://mr-doita11.github.io/mywordpress/wp-content/uploads/2022/10/product-detail-1-2.jpg" alt="" width="650" height="460" /></h2>
+<div class="ddict_btn" style="top: 102px; left: 1207.03px;"><img src="chrome-extension://bpggmmljdiliancllaapiggllnkbjocb/logo/48.png" /></div>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://mr-doita11.github.io/mywordpress/product/mermaid-bath-bomb/feed/</wfw:commentRss>
@@ -129,7 +131,7 @@
 		<pubDate>Wed, 05 Oct 2022 03:53:37 +0000</pubDate>
 				<guid isPermaLink="false">https://mr-doita11.github.io/mywordpress/?post_type=product&#038;p=499</guid>
 
-					<description><![CDATA[Savor all the fun Urna cursus eget nunc scelerisque. Etiam erat velit scelerisque in dictum. Sapien et ligula ullamcorper malesuada proin libero. Eget nunc scelerisque viverra mauris. Non tellus orci ac auctor. Non odio euismod lacinia at quis risus. In ante metus Arcu cursus vitae congue mauris rhoncus aenean. Massa eget egestas purus viverra accumsan. [&#8230;]]]></description>
+					<description><![CDATA[Savor all the fun Urna cursus eget nunc scelerisque. Etiam erat velit scelerisque in dictum. Sapien et ligula ullamcorper malesuada proin libero. Eget nunc scelerisque viverra mauris. Non tellus orci ac auctor. Non odio euismod lacinia at quis risus. In ante metus Arcu cursus vitae congue mauris rhoncus aenean. Massa eget egestas purus viverra accumsan. &#8230; ]]></description>
 										<content:encoded><![CDATA[<h4>Savor all the fun</h4>
 <p>Urna cursus eget nunc scelerisque. Etiam erat velit scelerisque in dictum. Sapien et ligula ullamcorper malesuada proin libero. Eget nunc scelerisque viverra mauris. Non tellus orci ac auctor. Non odio euismod lacinia at quis risus. In ante metus</p>
 <p>Arcu cursus vitae congue mauris rhoncus aenean. Massa eget egestas purus viverra accumsan. Viverra orci sagittis eu volutpat odio<img loading="lazy" class="alignnone size-full wp-image-433" src="https://mr-doita11.github.io/mywordpress/wp-content/uploads/2022/10/product-detail-1-2.jpg" alt="" width="650" height="460" /></p>
